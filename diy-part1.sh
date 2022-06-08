@@ -54,6 +54,9 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 
 # 服务
 
+#docker
+git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+
 #ShadowSocksR Plus+
 git clone https://github.com/fw876/helloworld.git package/helloworld
 
