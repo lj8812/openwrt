@@ -72,6 +72,9 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #luci-app-adguardhome
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-adguardhome package/luci-app-adguardhome
 
+#luci-app-adbyby-plus
+git clone https://github.com/ywt114/luci-app-adbyby-plus package/luci-app-adbyby-plus
+
 ##############################################################################################
 
 # 网络
